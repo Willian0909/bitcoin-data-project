@@ -293,19 +293,21 @@ class OneTokenEveryDay(object):
 
                     for currency in exchange:
                         path = re.findall(r'(.*)/', currency)[0]
-                        os.mkdir(path)
+                        try:
+                            os.mkdir(path)
+                        except:
+                            print('目录已存在，不需要重复创建')
                         # 判断查询的数据是否在返回的响应数据中
-                        if currency in ret:
-                            self.count += 1
-                            depth_url = self.depth_url_handle(datetime, currency)
+                        finally:
+                            if currency in ret:
 
-                            print('正在获取[{}]日{}的历史记录！'.format(datetime, currency))
-                            self.data_load(depth_url,path)
-                        else:
-                            with open('./' + path + '/' + path +'txt', 'a') as f:
-                                f.write("?" + datetime + '-' + currency + '\n', )
+                                depth_url = self.depth_url_handle(datetime, currency)
 
-                    print(self.count)
+                                print('正在获取[{}]日{}的历史记录！'.format(datetime, currency))
+                                self.data_load(depth_url,path)
+                            else:
+                                with open('./' + path + '/' + path +'txt', 'a') as f:
+                                    f.write("?" + datetime + '-' + currency + '\n', )
                     break
 
 
@@ -316,6 +318,6 @@ if __name__ == '__main__':
         now = datetime.datetime.now()
         hour = now.hour
         minute = now.minute
-        if hour == 8 and minute == 0:
+        if hour == 0 and minute == 0:
             spider.run()
 
