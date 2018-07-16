@@ -1,0 +1,982 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="23e18fae-3be3-44e5-a3d7-64f7ebc3c9dc" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/1token_realtime_data_gevent$websocket_01.coverage" NAME="websocket_01 Coverage Results" MODIFIED="1530872131008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/1token_realtime_data_gevent$Unittest_Auto_Run___init__.coverage" NAME="Unittest Auto_Run.__init__ Coverage Results" MODIFIED="1531214967087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/1token_realtime_data$atoken_candle_gdax.coverage" NAME="atoken_candle_gdax Coverage Results" MODIFIED="1530669865235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/candle-files" />
+    <SUITE FILE_PATH="coverage/1token_realtime_data$atoken_tike_huobi.coverage" NAME="atoken_tike_huobi Coverage Results" MODIFIED="1530672934008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tike-files" />
+    <SUITE FILE_PATH="coverage/1token_realtime_data_gevent$low_freq_quote.coverage" NAME="low-freq-quote Coverage Results" MODIFIED="1530859142276" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/1token_realtime_data_gevent$tike_apiapi.coverage" NAME="tike_apiapi Coverage Results" MODIFIED="1531214909541" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/1token_realtime_data_gevent$tike_v3_code.coverage" NAME="tike_v3_code Coverage Results" MODIFIED="1531294370476" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Api_modules" />
+    <SUITE FILE_PATH="coverage/1token_realtime_data_gevent$zhubi_monitor_pro.coverage" NAME="zhubi_monitor_pro Coverage Results" MODIFIED="1531135091084" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/1token_realtime_data$atoken_RealTime_binance__2_.coverage" NAME="atoken_RealTime_binance (2) Coverage Results" MODIFIED="1530587699869" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tike-v3-files" />
+    <SUITE FILE_PATH="coverage/1token_realtime_data$atoken_zhubi_huobi.coverage" NAME="atoken_zhubi_huobi Coverage Results" MODIFIED="1530672971560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zhubi-files" />
+    <SUITE FILE_PATH="coverage/1token_realtime_data$low_freq_quote__1_.coverage" NAME="low-freq-quote (1) Coverage Results" MODIFIED="1530584974991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/low-freq-quote-files" />
+    <SUITE FILE_PATH="coverage/1token_realtime_data_gevent$Unittest_Candle_data_parse.coverage" NAME="Unittest Candle.data_parse Coverage Results" MODIFIED="1531213733429" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Api_modules" />
+    <SUITE FILE_PATH="coverage/1token_realtime_data$tttest.coverage" NAME="tttest Coverage Results" MODIFIED="1530611587280" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/1token_realtime_data$atoken_candle_okex.coverage" NAME="atoken_candle_okex Coverage Results" MODIFIED="1530672913689" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/candle-files" />
+    <SUITE FILE_PATH="coverage/1token_realtime_data$atoken_tike_v3_bittrex.coverage" NAME="atoken_tike_v3_bittrex Coverage Results" MODIFIED="1530672948810" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tike-v3-files" />
+    <SUITE FILE_PATH="coverage/1token_realtime_data$atoken_tike_bitz.coverage" NAME="atoken_tike_bitz Coverage Results" MODIFIED="1530672929975" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tike-files" />
+    <SUITE FILE_PATH="coverage/1token_realtime_data$atoken_zhubi_gdax.coverage" NAME="atoken_zhubi_gdax Coverage Results" MODIFIED="1530672969107" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zhubi-files" />
+    <SUITE FILE_PATH="coverage/1token_realtime_data$atoken_zhubi_bittrex.coverage" NAME="atoken_zhubi_bittrex Coverage Results" MODIFIED="1530672964544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zhubi-files" />
+    <SUITE FILE_PATH="coverage/1token_realtime_data$atoken_tike_bitfinex.coverage" NAME="atoken_tike_bitfinex Coverage Results" MODIFIED="1530672926350" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tike-files" />
+    <SUITE FILE_PATH="coverage/1token_realtime_data$atoken_RealTime_kraken.coverage" NAME="atoken_RealTime_kraken Coverage Results" MODIFIED="1530525247906" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/onetoken-realtime-pro" />
+    <SUITE FILE_PATH="coverage/1token_realtime_data$atoken_candle_bittrex.coverage" NAME="atoken_candle_bittrex Coverage Results" MODIFIED="1530672902577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/candle-files" />
+    <SUITE FILE_PATH="coverage/1token_realtime_data_gevent$Unittest_Tike___init__.coverage" NAME="Unittest Tike.__init__ Coverage Results" MODIFIED="1530857782463" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/1token_realtime_data$atoken_zhubi_okex.coverage" NAME="atoken_zhubi_okex Coverage Results" MODIFIED="1530672974936" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zhubi-files" />
+    <SUITE FILE_PATH="coverage/1token_realtime_data$atoken_RealTime_bitz.coverage" NAME="atoken_RealTime_bitz Coverage Results" MODIFIED="1530525703892" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/onetoken-realtime-pro" />
+    <SUITE FILE_PATH="coverage/1token_realtime_data_gevent$Unittest_candle_parse.coverage" NAME="Unittest candle_parse Coverage Results" MODIFIED="1531214696301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/1token_realtime_data_gevent$tike_monitor_pro.coverage" NAME="tike_monitor_pro Coverage Results" MODIFIED="1531135000538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/1token_realtime_data$atoken_RealTime_binance__1_.coverage" NAME="atoken_RealTime_binance (1) Coverage Results" MODIFIED="1530589174056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zhubi-files" />
+    <SUITE FILE_PATH="coverage/1token_realtime_data$1token_realtimedata.coverage" NAME="1token-realtimedata Coverage Results" MODIFIED="1530158404168" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/1token_realtime_data$atoken_candle_huobi.coverage" NAME="atoken_candle_huobi Coverage Results" MODIFIED="1530672910055" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/candle-files" />
+    <SUITE FILE_PATH="coverage/1token_realtime_data$token_websocketV1.coverage" NAME="token_websocketV1 Coverage Results" MODIFIED="1530512257977" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/1token_realtime_data$tike_v3.coverage" NAME="tike_v3 Coverage Results" MODIFIED="1530583842258" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/onetoken-realtime-pro" />
+    <SUITE FILE_PATH="coverage/1token_realtime_data_gevent$zhubi_code.coverage" NAME="zhubi_code Coverage Results" MODIFIED="1531298352608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Api_modules" />
+    <SUITE FILE_PATH="coverage/1token_realtime_data$atoken_RealTime_hitbit.coverage" NAME="atoken_RealTime_hitbit Coverage Results" MODIFIED="1530526868307" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/onetoken-realtime-pro" />
+    <SUITE FILE_PATH="coverage/1token_realtime_data$atoken_candle_hitbit.coverage" NAME="atoken_candle_hitbit Coverage Results" MODIFIED="1530599415869" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/candle-files" />
+    <SUITE FILE_PATH="coverage/1token_realtime_data_gevent$Unittest_Candle_create_gevent.coverage" NAME="Unittest Candle.create_gevent Coverage Results" MODIFIED="1531105574611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/1token_realtime_data_gevent$Unittests_in_Tike.coverage" NAME="Unittests in Tike Coverage Results" MODIFIED="1531212942054" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Api_modules" />
+    <SUITE FILE_PATH="coverage/1token_realtime_data_gevent$Unittest_low_freq_quote.coverage" NAME="Unittest low_freq_quote Coverage Results" MODIFIED="1531299181336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Api_modules" />
+    <SUITE FILE_PATH="coverage/1token_realtime_data$atoken_tike_v3_bitfinex.coverage" NAME="atoken_tike_v3_bitfinex Coverage Results" MODIFIED="1530672946747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tike-v3-files" />
+    <SUITE FILE_PATH="coverage/1token_realtime_data$1token_RealTime_binance.coverage" NAME="1token_RealTime_binance Coverage Results" MODIFIED="1530168755830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1token-realtime-pro" />
+    <SUITE FILE_PATH="coverage/1token_realtime_data_gevent$tike_v3_monitor_pro.coverage" NAME="tike_v3_monitor_pro Coverage Results" MODIFIED="1531135003537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/1token_realtime_data_gevent$tarfiles.coverage" NAME="tarfiles Coverage Results" MODIFIED="1531201673788" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/1token_realtime_data$atoken_tike_binance.coverage" NAME="atoken_tike_binance Coverage Results" MODIFIED="1530672924350" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tike-files" />
+    <SUITE FILE_PATH="coverage/1token_realtime_data$low_freq_quote.coverage" NAME="low-freq-quote Coverage Results" MODIFIED="1530672920306" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/low-freq-quote-files" />
+    <SUITE FILE_PATH="coverage/1token_realtime_data$ansy_pro.coverage" NAME="ansy_pro Coverage Results" MODIFIED="1530515032871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/onetoken-realtime-pro" />
+    <SUITE FILE_PATH="coverage/1token_realtime_data$1tokenRealTimeData.coverage" NAME="1tokenRealTimeData Coverage Results" MODIFIED="1530150338618" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/1token_realtime_data$atoken_zhubi_kraken.coverage" NAME="atoken_zhubi_kraken Coverage Results" MODIFIED="1530672977155" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zhubi-files" />
+    <SUITE FILE_PATH="coverage/1token_realtime_data$onetokenpro.coverage" NAME="onetokenpro Coverage Results" MODIFIED="1530499893521" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/onetoken-realtime-pro" />
+    <SUITE FILE_PATH="coverage/1token_realtime_data$atoken_candle_binance.coverage" NAME="atoken_candle_binance Coverage Results" MODIFIED="1530674226521" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/candle-files" />
+    <SUITE FILE_PATH="coverage/1token_realtime_data$onetokenpro__1_.coverage" NAME="onetokenpro (1) Coverage Results" MODIFIED="1530176057456" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/onetoken-realtime-pro" />
+    <SUITE FILE_PATH="coverage/1token_realtime_data$atoken_candle_bitfinex.coverage" NAME="atoken_candle_bitfinex Coverage Results" MODIFIED="1530672900124" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/candle-files" />
+    <SUITE FILE_PATH="coverage/1token_realtime_data_gevent$zhubi_api.coverage" NAME="zhubi_api Coverage Results" MODIFIED="1530843796087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/1token_realtime_data_gevent$geventpro.coverage" NAME="gevent－pro Coverage Results" MODIFIED="1530863739123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/1token_realtime_data$1token_RealTime_okex.coverage" NAME="1token_RealTime_okex Coverage Results" MODIFIED="1530168761862" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1token-realtime-pro" />
+    <SUITE FILE_PATH="coverage/1token_realtime_data$atoken_zhubi_lbank.coverage" NAME="atoken_zhubi_lbank Coverage Results" MODIFIED="1530670970028" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zhubi-files" />
+    <SUITE FILE_PATH="coverage/1token_realtime_data$1token_RealTime_proV2.coverage" NAME="1token_RealTime_proV2 Coverage Results" MODIFIED="1530167673807" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/1token_realtime_data$candle_api.coverage" NAME="candle_api Coverage Results" MODIFIED="1530587761014" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/onetoken-realtime-pro" />
+    <SUITE FILE_PATH="coverage/1token_realtime_data$atoken_tike_lbank.coverage" NAME="atoken_tike_lbank Coverage Results" MODIFIED="1530670126593" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tike-files" />
+    <SUITE FILE_PATH="coverage/1token_realtime_data_gevent$tike_code.coverage" NAME="tike_code Coverage Results" MODIFIED="1531298443559" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Api_modules" />
+    <SUITE FILE_PATH="coverage/1token_realtime_data$atoken_RealTime_gdax.coverage" NAME="atoken_RealTime_gdax Coverage Results" MODIFIED="1530525269090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/onetoken-realtime-pro" />
+    <SUITE FILE_PATH="coverage/1token_realtime_data_gevent$Unittest_Client_send.coverage" NAME="Unittest Client.send Coverage Results" MODIFIED="1530870718430" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/1token_realtime_data_gevent$ada.coverage" NAME="ada Coverage Results" MODIFIED="1530841732933" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/1token_realtime_data$atoken_RealTime_binance.coverage" NAME="atoken_RealTime_binance Coverage Results" MODIFIED="1530585679275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tike-files" />
+    <SUITE FILE_PATH="coverage/1token_realtime_data$atoken_RealTime_binance__3_.coverage" NAME="atoken_RealTime_binance (3) Coverage Results" MODIFIED="1530588420325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/candle-files" />
+    <SUITE FILE_PATH="coverage/1token_realtime_data$data_handle.coverage" NAME="data_handle Coverage Results" MODIFIED="1530240309768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/1token_realtime_data$tike_api.coverage" NAME="tike_api Coverage Results" MODIFIED="1530529715977" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/onetoken-realtime-pro" />
+    <SUITE FILE_PATH="coverage/1token_realtime_data_gevent$tike_v3_gevent_code.coverage" NAME="tike_v3_gevent_code Coverage Results" MODIFIED="1530784166842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tike-v3-files" />
+    <SUITE FILE_PATH="coverage/1token_realtime_data_gevent$candle_code.coverage" NAME="candle_code Coverage Results" MODIFIED="1531289329668" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Api_modules" />
+    <SUITE FILE_PATH="coverage/1token_realtime_data_gevent$candle_apiapiapi.coverage" NAME="candle_apiapiapi Coverage Results" MODIFIED="1531214732265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/1token_realtime_data$candle_data_save.coverage" NAME="candle_data_save Coverage Results" MODIFIED="1530590185160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/candle-files" />
+    <SUITE FILE_PATH="coverage/1token_realtime_data$byte_str.coverage" NAME="byte_str Coverage Results" MODIFIED="1530522039531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/onetoken-realtime-pro" />
+    <SUITE FILE_PATH="coverage/1token_realtime_data_gevent$Unittests_in_Candle__1_.coverage" NAME="Unittests in Candle (1) Coverage Results" MODIFIED="1530789758797" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/1token_realtime_data$atoken_zhubi_binance.coverage" NAME="atoken_zhubi_binance Coverage Results" MODIFIED="1530673576852" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zhubi-files" />
+    <SUITE FILE_PATH="coverage/1token_realtime_data_gevent$tike_gevent_code.coverage" NAME="tike_gevent_code Coverage Results" MODIFIED="1530872253931" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/1token_realtime_data$1token_RealTime_huobi.coverage" NAME="1token_RealTime_huobi Coverage Results" MODIFIED="1530168884684" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1token-realtime-pro" />
+    <SUITE FILE_PATH="coverage/1token_realtime_data$atoken_zhubi_bitfinex.coverage" NAME="atoken_zhubi_bitfinex Coverage Results" MODIFIED="1530673584376" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zhubi-files" />
+    <SUITE FILE_PATH="coverage/1token_realtime_data_gevent$Unittest_Candle_kraken_func.coverage" NAME="Unittest Candle.kraken_func Coverage Results" MODIFIED="1531288946402" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Api_modules" />
+    <SUITE FILE_PATH="coverage/1token_realtime_data$atoken_RealTime_gateio.coverage" NAME="atoken_RealTime_gateio Coverage Results" MODIFIED="1530525711379" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/onetoken-realtime-pro" />
+    <SUITE FILE_PATH="coverage/1token_realtime_data$atoken_RealTime_okex.coverage" NAME="atoken_RealTime_okex Coverage Results" MODIFIED="1530525211352" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/onetoken-realtime-pro" />
+    <SUITE FILE_PATH="coverage/1token_realtime_data$atoken_tike_bittrex.coverage" NAME="atoken_tike_bittrex Coverage Results" MODIFIED="1530672928085" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tike-files" />
+    <SUITE FILE_PATH="coverage/1token_realtime_data$atoken_zhubi_hitbit.coverage" NAME="atoken_zhubi_hitbit Coverage Results" MODIFIED="1530598837047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zhubi-files" />
+    <SUITE FILE_PATH="coverage/1token_realtime_data_gevent$Unittest_Candle___init____1_.coverage" NAME="Unittest Candle.__init__ (1) Coverage Results" MODIFIED="1530789334487" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/run_files" />
+    <SUITE FILE_PATH="coverage/1token_realtime_data$atoken_tike_v3_binance.coverage" NAME="atoken_tike_v3_binance Coverage Results" MODIFIED="1530672944272" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tike-v3-files" />
+    <SUITE FILE_PATH="coverage/1token_realtime_data$atoken_tike_kraken.coverage" NAME="atoken_tike_kraken Coverage Results" MODIFIED="1530670062800" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tike-files" />
+    <SUITE FILE_PATH="coverage/1token_realtime_data$atoken_RealTime_lbank.coverage" NAME="atoken_RealTime_lbank Coverage Results" MODIFIED="1530527391600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/onetoken-realtime-pro" />
+    <SUITE FILE_PATH="coverage/1token_realtime_data$ttest.coverage" NAME="ttest Coverage Results" MODIFIED="1530254490144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/1token_realtime_data_gevent$Unittests_in_Candle.coverage" NAME="Unittests in Candle Coverage Results" MODIFIED="1530789589713" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/run_files" />
+    <SUITE FILE_PATH="coverage/1token_realtime_data$test.coverage" NAME="test Coverage Results" MODIFIED="1530185566307" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/1token_realtime_data$atoken_tike_v3_okex.coverage" NAME="atoken_tike_v3_okex Coverage Results" MODIFIED="1530672955498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tike-v3-files" />
+    <SUITE FILE_PATH="coverage/1token_realtime_data_gevent$Unittest_Tike_gdax_func.coverage" NAME="Unittest Tike.gdax_func Coverage Results" MODIFIED="1530872247019" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/1token_realtime_data$atoken_RealTime_bitfinex.coverage" NAME="atoken_RealTime_bitfinex Coverage Results" MODIFIED="1530589145013" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zhubi-files" />
+    <SUITE FILE_PATH="coverage/1token_realtime_data$atoken_tike_v3_huobi.coverage" NAME="atoken_tike_v3_huobi Coverage Results" MODIFIED="1530672951872" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tike-v3-files" />
+    <SUITE FILE_PATH="coverage/1token_realtime_data_gevent$candle_gevent_code.coverage" NAME="candle_gevent_code Coverage Results" MODIFIED="1531123816175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/1token_realtime_data$atoken_candle_kraken.coverage" NAME="atoken_candle_kraken Coverage Results" MODIFIED="1530669871658" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/candle-files" />
+    <SUITE FILE_PATH="coverage/1token_realtime_data$tike_v3_api.coverage" NAME="tike_v3_api Coverage Results" MODIFIED="1530672421865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tike-v3-files" />
+    <SUITE FILE_PATH="coverage/1token_realtime_data_gevent$zhubi_gevent_code.coverage" NAME="zhubi_gevent_code Coverage Results" MODIFIED="1530843727247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/1token_realtime_data$atoken_tike_gateio.coverage" NAME="atoken_tike_gateio Coverage Results" MODIFIED="1530670053316" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tike-files" />
+    <SUITE FILE_PATH="coverage/1token_realtime_data$atoken_RealTime_bittrex.coverage" NAME="atoken_RealTime_bittrex Coverage Results" MODIFIED="1530527051428" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/onetoken-realtime-pro" />
+    <SUITE FILE_PATH="coverage/1token_realtime_data_gevent$low_freq_quote_code.coverage" NAME="low_freq_quote_code Coverage Results" MODIFIED="1531299542578" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Api_modules" />
+    <SUITE FILE_PATH="coverage/1token_realtime_data_gevent$print_process_information.coverage" NAME="print_process_information Coverage Results" MODIFIED="1531134699996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/1token_realtime_data_gevent$gevent_code.coverage" NAME="gevent_code Coverage Results" MODIFIED="1530783758016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/candle-files" />
+    <SUITE FILE_PATH="coverage/1token_realtime_data$atoken_zhubi_gateio.coverage" NAME="atoken_zhubi_gateio Coverage Results" MODIFIED="1530670943556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zhubi-files" />
+    <SUITE FILE_PATH="coverage/1token_realtime_data$atoken_tike_okex.coverage" NAME="atoken_tike_okex Coverage Results" MODIFIED="1530672939446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tike-files" />
+    <SUITE FILE_PATH="coverage/1token_realtime_data_gevent$Unittest_tk_parse.coverage" NAME="Unittest tk_parse Coverage Results" MODIFIED="1531213629562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Api_modules" />
+    <SUITE FILE_PATH="coverage/1token_realtime_data$atoken_candle_gateio.coverage" NAME="atoken_candle_gateio Coverage Results" MODIFIED="1530669862251" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/candle-files" />
+    <SUITE FILE_PATH="coverage/1token_realtime_data_gevent$file_load.coverage" NAME="file_load Coverage Results" MODIFIED="1530849604227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_save_path" />
+    <SUITE FILE_PATH="coverage/1token_realtime_data_gevent$quote_monitor_pro.coverage" NAME="quote_monitor_pro Coverage Results" MODIFIED="1531214987608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/1token_realtime_data_gevent$candle_monitor_pro.coverage" NAME="candle_monitor_pro Coverage Results" MODIFIED="1531214975864" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/1token_realtime_data_gevent$Unittest_Candle_binance_func.coverage" NAME="Unittest Candle.binance_func Coverage Results" MODIFIED="1530789251535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/run_files" />
+    <SUITE FILE_PATH="coverage/1token_realtime_data$atoken_candle_lbank.coverage" NAME="atoken_candle_lbank Coverage Results" MODIFIED="1530599420350" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/candle-files" />
+    <SUITE FILE_PATH="coverage/1token_realtime_data_gevent$Unittest_func2.coverage" NAME="Unittest func2 Coverage Results" MODIFIED="1530863049472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/1token_realtime_data$atoken_candle_bitz.coverage" NAME="atoken_candle_bitz Coverage Results" MODIFIED="1530672906531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/candle-files" />
+    <SUITE FILE_PATH="coverage/1token_realtime_data$token_websocket.coverage" NAME="token_websocket Coverage Results" MODIFIED="1530512276204" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/onetoken-realtime-pro" />
+    <SUITE FILE_PATH="coverage/1token_realtime_data_gevent$Unittest_Candle___init__.coverage" NAME="Unittest Candle.__init__ Coverage Results" MODIFIED="1530842192255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/1token_realtime_data_gevent$Unittest_Candle_binance_func__1_.coverage" NAME="Unittest Candle.binance_func (1) Coverage Results" MODIFIED="1530789404587" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/run_files" />
+    <SUITE FILE_PATH="coverage/1token_realtime_data$atoken_tike_gdax.coverage" NAME="atoken_tike_gdax Coverage Results" MODIFIED="1530670056300" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tike-files" />
+    <SUITE FILE_PATH="coverage/1token_realtime_data$all_currency.coverage" NAME="all_currency Coverage Results" MODIFIED="1530162250960" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/1token_realtime_data$atoken_RealTime_huobi.coverage" NAME="atoken_RealTime_huobi Coverage Results" MODIFIED="1530527370491" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/onetoken-realtime-pro" />
+    <SUITE FILE_PATH="coverage/1token_realtime_data$atoken_zhubi_bitz.coverage" NAME="atoken_zhubi_bitz Coverage Results" MODIFIED="1530670946212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zhubi-files" />
+    <SUITE FILE_PATH="coverage/1token_realtime_data_gevent$time_t.coverage" NAME="time_t Coverage Results" MODIFIED="1531188937022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/1token_realtime_data_gevent$gevent_code_v2.coverage" NAME="gevent_code_v2 Coverage Results" MODIFIED="1530785563501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/1token_realtime_data_gevent$candle_apiaaa.coverage" NAME="candle_apiaaa Coverage Results" MODIFIED="1531116446197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="1token_realtime_data" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
+      <file leaf-file-name="candle_api.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Api_modules/candle_api.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="data_save.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Api_modules/data_save.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="candle_monitor_pro.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/candle_monitor_pro.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="80">
+              <caret line="4" column="26" lean-forward="false" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="zhubi_monitor_pro.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zhubi_monitor_pro.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="6" column="24" lean-forward="false" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="candle_code.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Api_modules/candle_code.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="219" column="41" lean-forward="false" selection-start-line="219" selection-start-column="41" selection-end-line="219" selection-end-column="41" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tike_api.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Api_modules/tike_api.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="40">
+              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tike_code.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Api_modules/tike_code.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="856">
+              <caret line="213" column="39" lean-forward="false" selection-start-line="213" selection-start-column="39" selection-end-line="213" selection-end-column="39" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tike_v3_api.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Api_modules/tike_v3_api.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="20">
+              <caret line="1" column="11" lean-forward="true" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="zhubi_code.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Api_modules/zhubi_code.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="203" column="25" lean-forward="false" selection-start-line="203" selection-start-column="25" selection-end-line="203" selection-end-column="25" />
+              <folding>
+                <element signature="e#179#20807#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="zhubi_api.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Api_modules/zhubi_api.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="440">
+              <caret line="26" column="24" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+              <folding>
+                <element signature="e#23#34#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>binance</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/tike-v3-files/tike_v3_api.py" />
+        <option value="$PROJECT_DIR$/low-freq-quote-files/low-freq-quote.py" />
+        <option value="$PROJECT_DIR$/gevent_code_v2.py" />
+        <option value="$PROJECT_DIR$/run_files/zhubi_gevent_code.py" />
+        <option value="$PROJECT_DIR$/run_files/tike_v3_gevent_code.py" />
+        <option value="$PROJECT_DIR$/run_files/tike_gevent_code.py" />
+        <option value="$PROJECT_DIR$/run_files/candle_gevent_code.py" />
+        <option value="$PROJECT_DIR$/ada.py" />
+        <option value="$PROJECT_DIR$/data_save_path/file_load.py" />
+        <option value="$PROJECT_DIR$/data_save_path/hello.txt" />
+        <option value="$PROJECT_DIR$/tike_gevent_code.py" />
+        <option value="$PROJECT_DIR$/tike_v3_gevent_code.py" />
+        <option value="$PROJECT_DIR$/low_freq_quote_api.py" />
+        <option value="$PROJECT_DIR$/low-freq-quote.py" />
+        <option value="$PROJECT_DIR$/gevent－pro.py" />
+        <option value="$PROJECT_DIR$/fxh_spider.py" />
+        <option value="$PROJECT_DIR$/websocket_01.py" />
+        <option value="$PROJECT_DIR$/tike_api.py" />
+        <option value="$PROJECT_DIR$/tike_v3_api.py" />
+        <option value="$PROJECT_DIR$/zhubi_gevent_code.py" />
+        <option value="$PROJECT_DIR$/candle_apiaaa.py" />
+        <option value="$PROJECT_DIR$/candle_gevent_code.py" />
+        <option value="$PROJECT_DIR$/candle_api.py" />
+        <option value="$PROJECT_DIR$/zhubi_api.py" />
+        <option value="$PROJECT_DIR$/zhubi_code.py" />
+        <option value="$PROJECT_DIR$/tike_code.py" />
+        <option value="$PROJECT_DIR$/tike_v3_code.py" />
+        <option value="$PROJECT_DIR$/candle_code.py" />
+        <option value="$PROJECT_DIR$/data_save.py" />
+        <option value="$PROJECT_DIR$/low_freq_quote_code.py" />
+        <option value="$PROJECT_DIR$/print_process_information.py" />
+        <option value="$PROJECT_DIR$/quote_monitor_pro.py" />
+        <option value="$PROJECT_DIR$/time_t.py" />
+        <option value="$PROJECT_DIR$/tarfiles.py" />
+        <option value="$PROJECT_DIR$/Api_modules/data_save.py" />
+        <option value="$PROJECT_DIR$/Api_modules/log.txt" />
+        <option value="$PROJECT_DIR$/candle_apiapiapi.py" />
+        <option value="$PROJECT_DIR$/tike_apiapi.py" />
+        <option value="$PROJECT_DIR$/Api_modules/tike_v3_code.py" />
+        <option value="$PROJECT_DIR$/Api_modules/zhubi_code.py" />
+        <option value="$PROJECT_DIR$/Api_modules/candle_code.py" />
+        <option value="$PROJECT_DIR$/zhubi_monitor_pro.py" />
+        <option value="$PROJECT_DIR$/tike_v3_monitor_pro.py" />
+        <option value="$PROJECT_DIR$/tike_monitor_pro.py" />
+        <option value="$PROJECT_DIR$/Api_modules/tike_code.py" />
+        <option value="$PROJECT_DIR$/candle_monitor_pro.py" />
+        <option value="$PROJECT_DIR$/Api_modules/zhubi_api.py" />
+        <option value="$PROJECT_DIR$/Api_modules/tike_api.py" />
+        <option value="$PROJECT_DIR$/Api_modules/low_freq_quote_code.py" />
+        <option value="$PROJECT_DIR$/Api_modules/candle_api.py" />
+        <option value="$PROJECT_DIR$/Api_modules/tike_v3_api.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="53" />
+    <option name="y" value="24" />
+    <option name="width" value="1867" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="1token_realtime_data_gevent" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="1token_realtime_data_gevent" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="1token_realtime_data_gevent" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="1token_realtime_data_gevent" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Api_modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="js.eslint.eslintPackage" value="" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/run_files" />
+      <recent name="$PROJECT_DIR$/module_files" />
+      <recent name="C:\Users\think\PycharmProjects\1token_realtime_data" />
+      <recent name="C:\Users\think\PycharmProjects\1token_realtime_data\onetoken-realtime-pro" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/Api_modules" />
+      <recent name="$PROJECT_DIR$/api_modules" />
+      <recent name="$PROJECT_DIR$/module_files" />
+      <recent name="$PROJECT_DIR$/module_file" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.low_freq_quote_code">
+    <configuration default="false" name="Unittest low_freq_quote" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Api_modules" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="1token_realtime_data" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Api_modules/low_freq_quote_code.py" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="low_freq_quote" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_FUNCTION" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="low_freq_quote_code" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Api_modules" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="1token_realtime_data" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Api_modules/low_freq_quote_code.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="tike_v3_code" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Api_modules" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="1token_realtime_data" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Api_modules/tike_v3_code.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="zhubi_code" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Api_modules" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="1token_realtime_data" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Api_modules/zhubi_code.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="tike_code" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Api_modules" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="1token_realtime_data" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Api_modules/tike_code.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="1token_realtime_data" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="1token_realtime_data" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="1token_realtime_data" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="1token_realtime_data" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <module name="1token_realtime_data" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="1token_realtime_data" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="1token_realtime_data" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="1token_realtime_data" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="1token_realtime_data" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="1token_realtime_data" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python tests.Unittest low_freq_quote" />
+      <item index="1" class="java.lang.String" itemvalue="Python.low_freq_quote_code" />
+      <item index="2" class="java.lang.String" itemvalue="Python.tike_v3_code" />
+      <item index="3" class="java.lang.String" itemvalue="Python.zhubi_code" />
+      <item index="4" class="java.lang.String" itemvalue="Python.tike_code" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.low_freq_quote_code" />
+        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittest low_freq_quote" />
+        <item index="2" class="java.lang.String" itemvalue="Python.tike_code" />
+        <item index="3" class="java.lang.String" itemvalue="Python.zhubi_code" />
+        <item index="4" class="java.lang.String" itemvalue="Python.tike_v3_code" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="23e18fae-3be3-44e5-a3d7-64f7ebc3c9dc" name="Default" comment="" />
+      <created>1529998538972</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1529998538972</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittest_low_freq_quote - 2018.07.11 at 14h 12m 59s.xml">
+      <configuration name="Unittest low_freq_quote" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittest_low_freq_quote - 2018.07.11 at 16h 46m 19s.xml">
+      <configuration name="Unittest low_freq_quote" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittest_low_freq_quote - 2018.07.11 at 16h 47m 47s.xml">
+      <configuration name="Unittest low_freq_quote" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittest_low_freq_quote - 2018.07.11 at 16h 52m 45s.xml">
+      <configuration name="Unittest low_freq_quote" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittest_low_freq_quote - 2018.07.11 at 16h 53m 02s.xml">
+      <configuration name="Unittest low_freq_quote" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittest_tk_parse - 2018.07.10 at 17h 07m 06s.xml">
+      <configuration name="Unittest tk_parse" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittest_tk_parse - 2018.07.10 at 17h 07m 09s.xml">
+      <configuration name="Unittest tk_parse" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_Candle_(1) - 2018.07.05 at 19h 22m 25s.xml">
+      <configuration name="Unittests in Candle (1)" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_Candle_(1) - 2018.07.05 at 19h 22m 47s.xml">
+      <configuration name="Unittests in Candle (1)" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_Tike - 2018.07.10 at 16h 55m 42s.xml">
+      <configuration name="Unittests in Tike" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="53" y="24" width="1867" height="1056" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14675951" sideWeight="0.8341232" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.50473934" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1938445" sideWeight="0.16587678" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27309644" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32690355" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="7" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/tike_monitor_pro.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Api_modules/data_save_directory/2018-07-11/tike_v3/binance/2018-07-11_binance_ada.btc.json" />
+    <entry file="file://$PROJECT_DIR$/Api_modules/data_save_directory/2018-07-11/tike_v3/binance/2018-07-11_binance_ae.btc.json" />
+    <entry file="file://$PROJECT_DIR$/Api_modules/data_save_directory/2018-07-11/tike_v3/binance/2018-07-11_binance_bat.btc.json" />
+    <entry file="file://$PROJECT_DIR$/Api_modules/data_save_directory/2018-07-11/tike_v3/binance/2018-07-11_binance_bat.eth.json" />
+    <entry file="file://$PROJECT_DIR$/Api_modules/data_save_directory/2018-07-11/tike_v3/binance/2018-07-11_binance_ark.btc.json" />
+    <entry file="file://$PROJECT_DIR$/Api_modules/data_save_directory/2018-07-11/tike_v3/binance/2018-07-11_binance_aion.btc.json" />
+    <entry file="file://$PROJECT_DIR$/Api_modules/data_save_directory/2018-07-11/tike_v3/binance/2018-07-11_binance_ae.eth.json" />
+    <entry file="file://$PROJECT_DIR$/Api_modules/data_save_directory/2018-07-11/tike_v3/huobip/2018-07-11_huobip_bat.btc.json" />
+    <entry file="file://$PROJECT_DIR$/Api_modules/data_save_directory/2018-07-11/tike_v3/huobip/2018-07-11_huobip_bat.eth.json" />
+    <entry file="file://$PROJECT_DIR$/Api_modules/data_save_directory/2018-07-11/tike_v3/huobip/2018-07-11_huobip_bcd.btc.json" />
+    <entry file="file://$PROJECT_DIR$/Api_modules/data_save_directory/2018-07-11/tike_v3/huobip/2018-07-11_huobip_btc.usdt.json" />
+    <entry file="file://$PROJECT_DIR$/Api_modules/data_save_directory/2018-07-11/tike_v3/huobip/2018-07-11_huobip_btg.btc.json" />
+    <entry file="file://$PROJECT_DIR$/Api_modules/data_save_directory/2018-07-11/tike_v3/huobip/2018-07-11_huobip_cmt.btc.json" />
+    <entry file="file://$PROJECT_DIR$/Api_modules/data_save_directory/2018-07-11/tike_v3/huobip/2018-07-11_huobip_cmt.eth.json" />
+    <entry file="file://$PROJECT_DIR$/Api_modules/data_save_directory/2018-07-11/tike_v3/huobip/2018-07-11_huobip_btm.btc.json" />
+    <entry file="file://$PROJECT_DIR$/Api_modules/data_save_directory/2018-07-11/tike_v3/huobip/2018-07-11_huobip_btm.eth.json" />
+    <entry file="file://$PROJECT_DIR$/Api_modules/data_save_directory/2018-07-11/tike_v3/huobip/2018-07-11_huobip_elf.usdt.json" />
+    <entry file="file://$PROJECT_DIR$/Api_modules/data_save_directory/2018-07-11/tike_v3/huobip/2018-07-11_huobip_elf.eth.json" />
+    <entry file="file://$PROJECT_DIR$/Api_modules/data_save_directory/2018-07-11/tike_v3/huobip/2018-07-11_huobip_eng.btc.json" />
+    <entry file="file://$PROJECT_DIR$/Api_modules/data_save_directory/2018-07-11/tike_v3/huobip/2018-07-11_huobip_elf.btc.json" />
+    <entry file="file://$PROJECT_DIR$/Api_modules/data_save_directory/2018-07-11/tike_v3/huobip/2018-07-11_huobip_ela.usdt.json" />
+    <entry file="file://$PROJECT_DIR$/Api_modules/data_save_directory/2018-07-11/tike_v3/huobip/2018-07-11_huobip_gas.btc.json" />
+    <entry file="file://$PROJECT_DIR$/Api_modules/data_save_directory/2018-07-11/tike_v3/huobip/2018-07-11_huobip_eth.btc.json" />
+    <entry file="file://$PROJECT_DIR$/Api_modules/data_save_directory/2018-07-11/tike_v3/huobip/2018-07-11_huobip_ht.btc.json" />
+    <entry file="file://$PROJECT_DIR$/Api_modules/data_save_directory/2018-07-11/tike_v3/huobip/2018-07-11_huobip_gnt.btc.json" />
+    <entry file="file://$PROJECT_DIR$/Api_modules/data_save_directory/2018-07-11/tike_v3/binance/2018-07-11_binance_ada.eth.json" />
+    <entry file="file://$PROJECT_DIR$/Api_modules/data_save_directory/2018-07-11/zhubi/binance/2018-07-11_binance_bcd.btc.json" />
+    <entry file="file://$PROJECT_DIR$/Api_modules/data_save_directory/2018-07-11/tike/gdax/2018-07-11_gdax_eth.usd.json" />
+    <entry file="file://$PROJECT_DIR$/Api_modules/data_save_directory/2018-07-11/tike/gdax/2018-07-11_gdax_ltc.btc.json" />
+    <entry file="file://$PROJECT_DIR$/Api_modules/data_save_directory/2018-07-11/tike/gdax/2018-07-11_gdax_ltc.usd.json" />
+    <entry file="file://$PROJECT_DIR$/Api_modules/data_save_directory/2018-07-11/tike_v3/okex/2018-07-11_okex_ark.btc.json" />
+    <entry file="file://$PROJECT_DIR$/Api_modules/data_save_directory/2018-07-11/zhubi/binance/2018-07-11_binance_bnb.btc.json" />
+    <entry file="file://$PROJECT_DIR$/Api_modules/data_save_directory/2018-07-11/low-freq-quote/2018-07-11_binance.json" />
+    <entry file="file://$PROJECT_DIR$/Api_modules/data_save_directory/2018-07-11/low-freq-quote/2018-07-11_bitz.json" />
+    <entry file="file://$PROJECT_DIR$/Api_modules/data_save_directory/2018-07-11/tike_v3/okex/2018-07-11_okex_ark.eth.json" />
+    <entry file="file://$PROJECT_DIR$/Api_modules/data_save_directory/2018-07-11/tike/gdax/2018-07-11_gdax_btc.usd.json" />
+    <entry file="file://$PROJECT_DIR$/Api_modules/data_save_directory/2018-07-11/zhubi/bitfinex/2018-07-11_bitfinex_bch.btc.json" />
+    <entry file="file://$PROJECT_DIR$/Api_modules/log.txt" />
+    <entry file="file://$PROJECT_DIR$/Api_modules/low_freq_quote_code.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1600">
+          <caret line="236" column="0" lean-forward="false" selection-start-line="236" selection-start-column="0" selection-end-line="236" selection-end-column="0" />
+          <folding>
+            <element signature="e#201#3109#0" expanded="false" />
+            <element signature="e#3118#5079#0" expanded="false" />
+            <element signature="e#5092#6863#0" expanded="false" />
+            <element signature="e#6874#9184#0" expanded="false" />
+            <element signature="e#9192#9654#0" expanded="false" />
+            <element signature="e#9662#9792#0" expanded="false" />
+            <element signature="e#9802#12934#0" expanded="false" />
+            <element signature="e#12944#13256#0" expanded="false" />
+            <element signature="e#13265#13863#0" expanded="false" />
+            <element signature="e#13871#16650#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Api_modules/tike_v3_code.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4000">
+          <caret line="202" column="0" lean-forward="true" selection-start-line="202" selection-start-column="0" selection-end-line="202" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Api_modules/tike_v3_api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" column="11" lean-forward="true" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Api_modules/zhubi_api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="26" column="24" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding>
+            <element signature="e#23#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Api_modules/zhubi_code.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="203" column="25" lean-forward="false" selection-start-line="203" selection-start-column="25" selection-end-line="203" selection-end-column="25" />
+          <folding>
+            <element signature="e#179#20807#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/candle_monitor_pro.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="26" lean-forward="false" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zhubi_monitor_pro.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="24" lean-forward="false" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Api_modules/candle_code.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="219" column="41" lean-forward="false" selection-start-line="219" selection-start-column="41" selection-end-line="219" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Api_modules/candle_api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Api_modules/data_save.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Api_modules/tike_code.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="856">
+          <caret line="213" column="39" lean-forward="false" selection-start-line="213" selection-start-column="39" selection-end-line="213" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Api_modules/tike_api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
